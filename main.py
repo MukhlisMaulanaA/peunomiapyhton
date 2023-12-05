@@ -83,3 +83,7 @@ if result>0.5:
    print("Person is Affected By PNEUMONIA")
 else:
    print("Result is Normal")
+
+
+
+https://drive.google.com/drive/folders/13n-iylN3a2-eYR76nonw9F_S94HXQBF5?q=parent:13n-iylN3a2-eYR76nonw9F_S94HXQBF5 datasets (CHEST.XRAY.H5)
