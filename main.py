@@ -43,3 +43,7 @@ for images, labels in train_ds.take(1):
         plt.title(train_ds.class_names[labels[i]])
         plt.axis("off")
 plt.show()
+
+LINK DATASEET:Please download the dataset from the below url
+
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
